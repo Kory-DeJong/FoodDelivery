@@ -1,0 +1,21 @@
+/.idea/
+/.vscode/
+*.iml
+*.log
+.DS_Store
+Thumbs.db
+
+# Codex workspace
+/AGENTS.md
+
+# Backend build output
+/Food-Delivery/backend/target/
+
+# IDE project files
+/Food-Delivery/.idea/
+
+# Frontend build output
+/Food-Delivery/feastfinder-frontend/node_modules/
+/Food-Delivery/feastfinder-frontend/dist/
+/Food-Delivery/feastfinder-frontend/out-tsc/
+/Food-Delivery/feastfinder-frontend/.angular/
